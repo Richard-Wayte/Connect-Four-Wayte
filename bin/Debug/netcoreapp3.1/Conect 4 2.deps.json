@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Conect 4 2/1.0.0": {
+        "runtime": {
+          "Conect 4 2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Conect 4 2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
